@@ -1,0 +1,147 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left
+{
+    padding:30px 20px;
+    height:95vh;
+    margin: 20px 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px #c401ff;
+    position: relative;
+    /* min-height: 935px; */
+}
+.alert
+{
+    border-radius: 40px;
+}
+.menu
+{
+    margin-top:60px
+}
+
+.right
+{
+    padding:30px 20px;
+    height:max-content;
+    margin: 20px 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px #e73881;
+    /* min-height: 935px; */
+}
+html
+{
+    overflow-x: hidden;
+}
+.colortb
+{
+    background-color: #cff4fc
+}
+
+.img1
+{
+    margin-top: 40px;
+    margin-bottom:40px
+}
+.login
+{
+    width: 400px;
+    padding:50px 20px;
+    margin-left: auto;
+    margin-right: auto;   
+    border-radius: 30px;
+    box-shadow: 0 0 10px #c401ff;
+    margin-bottom: 50px;
+}
+
+#btn-login
+{
+    background-color: #642eac;
+    border-radius: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px var(--bs-blue);
+    color: #fff;
+    margin-bottom: 10px;
+    margin-top:20px;
+}
+.invalid  {
+    color: #f33a58;
+}
+.form-control:hover {
+    border-color: #1dbfaf;
+}
+input 
+{
+    box-shadow: 0px 0px 5px var(--bs-blue);
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+.form-control {
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px var(--bs-blue);
+}
+h5
+{
+    color: rgb(195, 89, 228);
+    margin-top: 20px;
+}
+
+.tb-login
+{
+    width:max-content;
+    position: fixed;
+    bottom:0px;
+    right: 15px;
+}
+
+.dplnone
+{
+    display: none;
+}
+
+.them
+{
+    margin-left: 80px;
+    margin-right:50px
+}
+.alert-primary
+{
+    background-color:#fa5d35;
+    
+}
+.update{
+    padding:50px 20px;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;   
+    border-radius: 30px;
+    box-shadow: 0 0 10px #c401ff;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.btn-update
+{
+    background-color: #642eac;
+    border-radius: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px var(--bs-blue);
+    color: #fff;
+    margin-bottom: 10px;
+    margin-top:20px;
+}
+.checkbox-mk
+{
+    margin-top:10px
+}
+.ttkh
+{
+    padding:10px;   
+    border-radius: 30px;
+    box-shadow: 0 0 10px #c401ff;
+    margin-bottom: 15px;
+    margin-top: 75px;
+}

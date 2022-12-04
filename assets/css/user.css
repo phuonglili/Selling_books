@@ -1,0 +1,98 @@
+#pthongtin{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: red;
+}
+/*.thongtindonhang{
+    border-radius: 10px;
+    border:1px solid black;
+    width: 900px;
+    margin-left: 60px;
+    padding: 50px;
+    margin-top: -10px;
+    background-color: #e3dffc;
+}*/
+
+.table1{
+    margin-left: -20px;
+    margin-top: -30px;
+    
+    border-spacing :20px;
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .lbltongtien{
+      float:right;
+      margin-top: 10px;
+      margin-right: 150px;
+  }
+.thaydoithongtin{
+    border-radius: 10px;
+    border:1px solid black;
+    width:500px;
+    height:550px;
+    float:right;
+    margin-top:-550px;
+    margin-right:100px;
+    background:#e3dffc;
+
+}
+
+.btnxacnhan{
+    margin-top: 140px;
+    margin-left: 50px;
+    background-color: #eaf88d;
+    color: black;
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+.mk{
+    font-size: 22px;
+    margin-top: 30px;
+}
+.mkmoi{
+   font-size: 22px;
+   margin-top: 30px;
+}
+.sdt{
+   font-size: 22px;
+   margin-top: 30px;
+}
+.diachi{
+   font-size: 22px;
+   margin-top: 30px;
+}
+.email{
+   font-size: 22px;
+   margin-top: 30px;
+}
+#mkc{
+    margin-left: 30px;
+}
+#sdt{
+    margin-left: 73px;
+}
+#email{
+    margin-left: 150px;
+}
+#diachi{
+    margin-left: 135px;
+}
+.thaydoithongtin input{
+    border-radius: 10px;
+}
+#redd{
+    color: red;
+}
